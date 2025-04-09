@@ -1,4 +1,4 @@
-```markdown
+
 # 📬 Korean Spam Mail Classifier (한국어 이메일 스팸 분류기)
 
 딥러닝과 LoRA 기반 파인튜닝을 활용하여 **한국어 이메일**을 스팸과 일반 메일로 분류하는 프로젝트입니다.  
@@ -85,4 +85,4 @@ python predict_ko_spam.py
 ---
 
 > 한국어 메일에 특화된 AI 필터를 LoRA 기반으로 학습하여, 완성도 높은 실전형 스팸 분류기를 구축
-```
+
